@@ -1,5 +1,7 @@
-source "http://rubygems.org"
+# frozen_string_literal: true
 
-gem "rake"
-gem "activesupport"
-gem "rspec"
+source 'http://rubygems.org'
+
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
